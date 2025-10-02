@@ -1,4 +1,8 @@
-# ⚡ AI Q&A Bot (Groq API)
+#  AI Q&A Bot (Groq API)
+
+
+Live Demo: [Click here to try the app](https://ai-app-bot-p9gmeoranzvgc52hizuj7e.streamlit.app/)
+
 
 A simple AI-powered Q&A Bot that answers your questions using **Groq-hosted LLaMA / Gemma / Mixtral models**.  
 Built with **Python + Streamlit**.
@@ -22,3 +26,4 @@ source venv/bin/activate  # Mac/Linux
 # Install dependencies
 
 pip install -r requirements.txt
+
